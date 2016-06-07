@@ -9,3 +9,5 @@ JetBrains runAs plugin for TeamCity is under the [Apache License](https://github
 ## Contributors ##
 
 - [Nikolay Pianikov](https://github.com/NikolayPianikov)
+
+I think the previous version of this tool was here:  https://teamcity.jetbrains.com/viewType.html?buildTypeId=bt332
